@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Glacial-Regular;
+  src: url('../src/assets/fonts/glacial-indifference.regular.otf');
+  }
+  @font-face {
+      font-family: Glacial-Bold;
+      src: url('../src/assets/fonts/glacial-indifference.bold.otf');
+      }
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    background-color: #fff;
+    color: #333;
+  }

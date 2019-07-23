@@ -1,0 +1,71 @@
+   
+.welcome {
+    text-align: center;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    height: 50vh;
+    margin-top: 15%;
+}
+.welcome h1{
+    font-family: 'Glacial-Bold';
+}
+.welcome p {
+    font-family: 'Glacial-Regular';
+    font-size: 17px;
+}
+.welcome p+p{
+    margin-top: -2%;
+}
+.boton{
+    width: 50%;
+    margin: auto;
+    margin-top: -5%;
+}
+.btn-gradient{
+    width: 100%;
+    background: linear-gradient(to right, #081d62, #09a7c4);
+    color: white !important;
+    text-transform: uppercase;
+    font-size: 15pt;
+    letter-spacing: 7%;
+    border: none ; 
+    font-family: 'Glacial-Bold';
+    height: 50px;
+}
+
+@media screen and (max-width: 600px) {
+   
+.welcome {
+    text-align: center;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+    height: 80vh !important;
+}
+.welcome h1{
+    font-family: 'Glacial-Bold';
+}
+.welcome p {
+    font-family: 'Glacial-Regular';
+}
+.welcome p+p{
+    margin-top: -5%;
+}
+.boton{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.btn-gradient{
+    width: 100%;
+    background: linear-gradient(to right, #081d62, #09a7c4);
+    color: white !important;
+    text-transform: uppercase;
+    font-size: 15pt;
+    letter-spacing: 7%;
+    border: none ; 
+    font-family: 'Glacial-Bold';
+    height: 50px;
+}
+  }
