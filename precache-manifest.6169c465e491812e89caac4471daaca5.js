@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ebe4e7c5294f246b1a5b915cad91205",
+    "revision": "89f55ba0069f0db610a16731e4aca9a8",
     "url": "/attendi/index.html"
   },
   {
-    "revision": "5ed242966df54e4d1fb4",
+    "revision": "8f31817ad2f95a40297e",
     "url": "/attendi/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "6400cb6d5e855f3a8dc5",
+    "revision": "ef3b67d6444ae434ce98",
     "url": "/attendi/static/css/main.c40cd1ce.chunk.css"
   },
   {
-    "revision": "5ed242966df54e4d1fb4",
-    "url": "/attendi/static/js/2.615e810e.chunk.js"
+    "revision": "8f31817ad2f95a40297e",
+    "url": "/attendi/static/js/2.384b2fd0.chunk.js"
   },
   {
-    "revision": "6400cb6d5e855f3a8dc5",
-    "url": "/attendi/static/js/main.a33e2c49.chunk.js"
+    "revision": "ef3b67d6444ae434ce98",
+    "url": "/attendi/static/js/main.b20ae985.chunk.js"
   },
   {
     "revision": "0d62e0e607ae861ec0d3",
