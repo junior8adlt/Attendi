@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/attendi/static/css/main.c40cd1ce.chunk.css",
+    "main.js": "/attendi/static/js/main.a33e2c49.chunk.js",
+    "main.js.map": "/attendi/static/js/main.a33e2c49.chunk.js.map",
+    "runtime~main.js": "/attendi/static/js/runtime~main.d0149340.js",
+    "runtime~main.js.map": "/attendi/static/js/runtime~main.d0149340.js.map",
+    "static/css/2.266e55a5.chunk.css": "/attendi/static/css/2.266e55a5.chunk.css",
+    "static/js/2.615e810e.chunk.js": "/attendi/static/js/2.615e810e.chunk.js",
+    "static/js/2.615e810e.chunk.js.map": "/attendi/static/js/2.615e810e.chunk.js.map",
+    "index.html": "/attendi/index.html",
+    "precache-manifest.9aa9528add351ed84fee1219d6bd6ea4.js": "/attendi/precache-manifest.9aa9528add351ed84fee1219d6bd6ea4.js",
+    "service-worker.js": "/attendi/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/attendi/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.c40cd1ce.chunk.css.map": "/attendi/static/css/main.c40cd1ce.chunk.css.map",
+    "static/media/Logo Attendi_movil.png": "/attendi/static/media/Logo Attendi_movil.b7532bcf.png",
+    "static/media/escala_1_mov.png": "/attendi/static/media/escala_1_mov.037ef6c2.png",
+    "static/media/escala_3_mov.png": "/attendi/static/media/escala_3_mov.f8a779fb.png",
+    "static/media/escala_5_mov.png": "/attendi/static/media/escala_5_mov.ab9f9ea3.png",
+    "static/media/escala_6_mov.png": "/attendi/static/media/escala_6_mov.4b1fcf2c.png",
+    "static/media/App.css": "/attendi/static/media/glacial-indifference.regular.008080d5.otf"
+  }
+}
